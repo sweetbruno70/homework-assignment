@@ -1,5 +1,6 @@
 # homework-assignment
-UCB First Homework
+UCB First Homework.
+
 This was created to understand the nuances of HTML and the CSS styling associated with it. 
 It was also created to fulfill the University of Berkley's Coding Bootcamp Homework.
 
