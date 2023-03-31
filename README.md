@@ -12,3 +12,4 @@ Source code origin: https://github.com/coding-boot-camp/urban-octo-telegram/tree
 The website depicted in this project aims to target clients who are interested in enhancing their company's Search Engine Optimization, Online Reputation Management, and Social Media Marketing.
 
 ![HoriSeon!](https://github.com/sweetbruno70/homework-assignment/blob/main/assets/images/Horiseon.jpg)
+Website URL: https://sweetbruno70.github.io/homework-assignment/
