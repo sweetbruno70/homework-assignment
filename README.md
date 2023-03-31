@@ -6,3 +6,9 @@ It was also created to fulfill the University of Berkley's Coding Bootcamp Homew
 
 Collaborators: Xandromus who wrote the starter code (source code), Paola Guerrero who provided some feedback on the html code, and my instructor Samantha Randolph.
 Source code origin: https://github.com/coding-boot-camp/urban-octo-telegram/tree/main/Develop
+
+
+
+The website depicted in this project aims to target clients who are interested in enhancing their company's Search Engine Optimization, Online Reputation Management, and Social Media Marketing.
+
+![HoriSeon!](C:\Users\henry\bootcamp\homework-assignment\homework-assignment\assets\images\Horiseon.jpg)
